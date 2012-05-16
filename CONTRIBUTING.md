@@ -1,7 +1,7 @@
 Process
 =======
 
-![Contributing Process](CONTRIBUTING_PROCESS.svg)
+![Contributing Process](CONTRIBUTING_PROCESS.png)
 
 Checklist (and a short version for the impatient)
 =================================================
