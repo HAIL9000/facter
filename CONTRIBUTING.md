@@ -30,7 +30,7 @@ So you want to be a contributor.
 
 ### Create Topic Branch 
 
-    Make sure your topic branch is off the appropriate version. The name of your branch should follow this naming format: `ticket/target/ticket#_short_description_of_problem`. For example: `ticket/2.x/1234_add_new_feature_to_do_something`.
+Make sure your topic branch is off the appropriate version. The name of your branch should follow this naming format: `ticket/target/ticket#_short_description_of_problem`. For example: `ticket/2.x/1234_add_new_feature_to_do_something`.
 
 Checklist (and a short version for the impatient)
 =================================================
