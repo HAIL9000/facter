@@ -7,12 +7,12 @@ Process
 So you want to be a contributor.
 
    * Do you currently have a problem you'd like to work on?
-
       Then it's time to make sure a Redmine ticket exits for this problem.
  
    * If you don't have a specific problem, then start looking for a ticket you'd like to work on. 
 
 ### Ticket?
+Line
 
     * Does the ticket exist? 
 
