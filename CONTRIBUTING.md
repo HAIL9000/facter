@@ -7,25 +7,21 @@ Process
 So you want to be a contributor.
 
    * Do you currently have a problem you'd like to work on?
+
       Then it's time to make sure a Redmine ticket exits for this problem.
  
    * If you don't have a specific problem, then start looking for a ticket you'd like to work on. 
 
 ### Ticket?
-Line
 
-    * Does the ticket exist? 
+    * Does the ticket exist?
 
-      	 Did you find a ticket that you want to work on, or that describes 
-	 you problem? Assign the ticket to yourself and update the status    
-	 if nessecary.
+      Did you find a ticket that you want to work on, or one that describes your problem? Assign the ticket to yourself and update the status if nessecary. 
+
+    * Do you need to create a ticket? 
+
+      If so, make sure to provide a good description of the problem, and link to any related tickets. Again, make sure you assign it to yourself.
  
-    * Do you need to create a ticket? :
- 
-      	 If so, make sure to provide a good description of the problem, 
-	 and link it to any related tickets. Again, make sure you assign it to yourself.
-        
-
 Checklist (and a short version for the impatient)
 =================================================
 
