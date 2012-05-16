@@ -16,9 +16,9 @@ So you want to be a contributor.
 
    * Does the ticket exist?
 
-      Did you find a ticket that you want to work on, or one that describes your problem? Assign the ticket to yourself and update the status if nessecary. 
+      Did you find a ticket that you want to work on, or one that describes your problem? (You can search [Redmine](http://help.github.com/fork-a-repo/) or do a [Google search](http://www.google.com) Assign the ticket to yourself and update the status if nessecary. 
 
-   * Do you need to create a ticket? 
+   * Do you need to [create a ticket](https://projects.puppetlabs.com/projects/facter/issues/new)? 
 
       If so, make sure to provide a good description of the problem, and link to any related tickets. Again, make sure you assign it to yourself.
 
