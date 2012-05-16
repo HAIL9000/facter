@@ -1,7 +1,7 @@
 Process
 =======
 
-![Contributing Process](https://github.com/hkenney/facter/raw/ticket/master/12685_make_contributing.md_awesome/CONTRIBUTING_PROCESS.png)
+![Contributing Process](https://github.com/hkenney/facter/raw/ticket/master/12685_make_contributing.md_awesome/CONTRIBUTING_PROCESS.svg)
 
 Checklist (and a short version for the impatient)
 =================================================
