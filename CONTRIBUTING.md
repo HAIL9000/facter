@@ -1,3 +1,8 @@
+Process
+=======
+
+![Contributing Process](CONTRIBUTING_PROCESS.svg)
+
 Checklist (and a short version for the impatient)
 =================================================
 

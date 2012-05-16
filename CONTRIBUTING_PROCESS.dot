@@ -1,0 +1,28 @@
+digraph contributing {
+	problem -> ticket [label="Yes"]
+	problem -> find_ticket [label="No"]
+	problem [label="Problem?"]
+	ticket [label="Ticket?"]
+	find_ticket [label="Find\nTicket"]
+	ticket -> create_ticket [label="No"]
+	ticket -> assign_ticket [label="Yes"]
+	find_ticket -> assign_ticket
+	assign_ticket [label="Assign\nTicket"]
+	create_ticket -> assign_ticket
+	create_ticket [label="Create\nTicket"]
+	assign_ticket -> fork
+	fork [label="Already\nhave fork?"]
+	fork -> create_fork [label="No"]
+	fork -> topic_branch [label="Yes"]
+	create_fork -> topic_branch
+	topic_branch [label="Create\nTopic Branch"]
+	create_fork [label="Create Fork"]
+	topic_branch -> logical_commits
+	logical_commits -> run_tests
+	run_tests -> pull_request
+	pull_request -> update_ticket
+	logical_commits [label="Create Commits\nof logical units"]
+	run_tests [label="Run\nSpec Tests"]
+	pull_request [label="Create\nPull Request"]
+	update_ticket [label="Update Ticket\nwith Pull Request"]
+}  [label="Contributing to Puppet Labs"]
