@@ -16,7 +16,7 @@ So you want to be a contributor.
 
    * Does the ticket exist?
 
-      Did you find a ticket that you want to work on, or one that describes your problem? (You can search [Redmine](http://help.github.com/fork-a-repo/) or do a [Google search](http://www.google.com) Assign the ticket to yourself and update the status if nessecary. 
+      Did you find a ticket that you want to work on, or one that describes your problem? (You can search [Redmine](http://help.github.com/fork-a-repo/) or do a [Google search](http://www.google.com)) Assign the ticket to yourself and update the status if nessecary. 
 
    * Do you need to [create a ticket](https://projects.puppetlabs.com/projects/facter/issues/new)? 
 
@@ -27,6 +27,10 @@ So you want to be a contributor.
    * Do you have a fork of the repository? 
 
      If not, then [make one](http://help.github.com/fork-a-repo/).
+
+### Create Topic Branch 
+
+    Make sure your topic branch is off the appropriate version. The name of your branch should follow this naming format: `ticket/target/ticket#_short_description_of_problem`. For example: `ticket/2.x/1234_add_new_feature_to_do_something`.
 
 Checklist (and a short version for the impatient)
 =================================================
