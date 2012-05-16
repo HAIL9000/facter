@@ -21,7 +21,13 @@ So you want to be a contributor.
    * Do you need to create a ticket? 
 
       If so, make sure to provide a good description of the problem, and link to any related tickets. Again, make sure you assign it to yourself.
- 
+
+### Fork? 
+
+   * Do you have a fork of the repository? 
+
+     If not, then [make one](http://help.github.com/fork-a-repo/).
+
 Checklist (and a short version for the impatient)
 =================================================
 
