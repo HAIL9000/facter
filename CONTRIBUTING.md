@@ -34,7 +34,7 @@ Make sure your topic branch is off the appropriate version. The name of your bra
 
 ### Create Logical Commits as You Go
 
-Be sure to add and commit changes as you go, and that your commit messages follow the standard format and are a good description of the changes you've made. You may need to squash your commits into a single one. 
+Be sure to add and commit changes as you go, and that your commit messages follow the standard format and are a good description of the changes you've made. You may need to clean up your commits before you submit a pull request. 
 
 ### Run Spec Tests
 
@@ -42,7 +42,7 @@ Before you are ready to make a pull request, be sure that you have tests that pr
 
 ### Create a Pull Request and Update Ticket
 
-Once you're sure that you've made the desired changes, submit a pull request and update your ticket with a link to your pull request. xs 
+Once you're sure that you've made the desired changes, submit a pull request and update your ticket with a link to your pull request. 
 
 Checklist (and a short version for the impatient)
 =================================================
