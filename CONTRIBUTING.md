@@ -16,7 +16,7 @@ So you want to be a contributor.
 
    * Does the ticket exist?
 
-      Did you find a ticket that you want to work on, or one that describes your problem? (You can search [Redmine](https://projects.puppetlabs.com/projects/facter/issues) or do a [Google search](http://www.google.com)) Assign the ticket to yourself and update the status if nessecary. 
+      Did you find a ticket that you want to work on, or one that describes your problem? (You can search [Redmine](https://projects.puppetlabs.com/projects/facter/issues) or do a [Google search](http://www.google.com/#hl=en&sclient=psy-ab&q=%22domain+fact%22+%22windows%22+site:projects.puppetlabs.com%2Fissues&oq=%22domain+fact%22+%22windows%22+site:projects.puppetlabs.com%2Fissues&aq=f&aqi=&aql=&gs_l=hp.3...33848.36407.1.39782.10.10.0.0.0.1.132.511.9j1.10.0...0.0.Gsy51Y2WVZk&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.,cf.osb&fp=c85676a35608e6b7&biw=1728&bih=958)) Assign the ticket to yourself and update the status if nessecary. 
 
    * Do you need to [create a ticket](https://projects.puppetlabs.com/projects/facter/issues/new)? 
 
