@@ -32,7 +32,17 @@ So you want to be a contributor.
 
 Make sure your topic branch is off the appropriate version. The name of your branch should follow this naming format: `ticket/target/ticket#_short_description_of_problem`. For example: `ticket/2.x/1234_add_new_feature_to_do_something`.
 
-### Create Logical Commits as You Go 
+### Create Logical Commits as You Go
+
+Be sure to add and commit changes as you go, and that your commit messages follow the standard format and are a good description of the changes you've made. You may need to squash your commits into a single one. 
+
+### Run Spec Tests
+
+Before you are ready to make a pull request, be sure that you have tests that properly tests your new functionality and that you have run _all_ the spec tests to check that your changes haven't broken anything else.
+
+### Create a Pull Request and Update Ticket
+
+Once you're sure that you've made the desired changes, submit a pull request and update your ticket with a link to your pull request. xs 
 
 Checklist (and a short version for the impatient)
 =================================================
