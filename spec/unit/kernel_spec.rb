@@ -1,5 +1,6 @@
 #! /usr/bin/env ruby
 
+
 require 'spec_helper'
 
 describe "Kernel fact" do
